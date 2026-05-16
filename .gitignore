@@ -24,3 +24,17 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.bak
+
+# Sphinx build output
+_build/
+*.pyc
+__pycache__/
+
+# Documentation output
+html/
+doctrees/
+*.html
+*.inv
+*.js
+*.css
+*.rst

@@ -1,0 +1,26 @@
+# Sphinx build output
+_build/
+*.pyc
+__pycache__/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Other
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Documentation files
+*.pdf
+*.odt
+*.docx
+
+# Database files
+*.db
+
+# Temporary files
+*.tmp
+*.bak

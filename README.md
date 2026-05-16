@@ -65,5 +65,3 @@
   <li>Configure a database and user credentials before running the MySQL option.</li>
   <li>Update connection details in the project if needed to match your environment.</li>
 </ul>
-
-<p>If you want, I can also add a short setup example for the expected MySQL connection configuration.</p>
